@@ -15,6 +15,7 @@ Collection of all the leetcode questions solved
 | ------- |
 | [0007-reverse-integer](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0204-count-primes) |
@@ -50,6 +51,7 @@ Collection of all the leetcode questions solved
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0326-power-of-three) |
 ## Two Pointers
