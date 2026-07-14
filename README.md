@@ -6,6 +6,7 @@ Collection of all the leetcode questions solved
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0204-count-primes) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
@@ -54,11 +55,13 @@ Collection of all the leetcode questions solved
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
