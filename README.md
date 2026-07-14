@@ -14,6 +14,7 @@ Collection of all the leetcode questions solved
 | ------- |
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0326-power-of-three) |
@@ -30,6 +31,7 @@ Collection of all the leetcode questions solved
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
@@ -51,6 +53,7 @@ Collection of all the leetcode questions solved
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
