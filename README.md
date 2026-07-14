@@ -6,6 +6,7 @@ Collection of all the leetcode questions solved
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0204-count-primes) |
@@ -69,4 +70,12 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
