@@ -25,6 +25,7 @@ Collection of all the leetcode questions solved
 | [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0326-power-of-three) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
@@ -91,4 +92,8 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0169-majority-element) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
