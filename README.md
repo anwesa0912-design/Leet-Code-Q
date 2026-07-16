@@ -15,6 +15,7 @@ Collection of all the leetcode questions solved
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0941-valid-mountain-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0941-valid-mountain-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Math
 |  |
