@@ -6,6 +6,7 @@ Collection of all the leetcode questions solved
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
@@ -40,6 +41,7 @@ Collection of all the leetcode questions solved
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0205-isomorphic-strings) |
