@@ -12,6 +12,7 @@ Collection of all the leetcode questions solved
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0204-count-primes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -36,6 +37,7 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -87,6 +89,7 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0004-median-of-two-sorted-arrays) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
@@ -94,6 +97,7 @@ Collection of all the leetcode questions solved
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
