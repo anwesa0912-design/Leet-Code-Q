@@ -34,6 +34,7 @@ Collection of all the leetcode questions solved
 | [0263-ugly-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0326-power-of-three) |
+| [0390-elimination-game](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0390-elimination-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
@@ -70,6 +71,7 @@ Collection of all the leetcode questions solved
 | [0050-powx-n](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0326-power-of-three) |
+| [0390-elimination-game](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0390-elimination-game) |
 ## Two Pointers
 |  |
 | ------- |
