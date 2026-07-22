@@ -16,6 +16,7 @@ Collection of all the leetcode questions solved
 | [0240-search-a-2d-matrix-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0456-132-pattern) |
+| [0486-predict-the-winner](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0912-sort-an-array) |
@@ -36,6 +37,7 @@ Collection of all the leetcode questions solved
 | [0319-bulb-switcher](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
@@ -74,6 +76,7 @@ Collection of all the leetcode questions solved
 | [0231-power-of-two](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -152,9 +155,14 @@ Collection of all the leetcode questions solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0509-fibonacci-number) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
