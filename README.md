@@ -13,6 +13,7 @@ Collection of all the leetcode questions solved
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
 | [0169-majority-element](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0240-search-a-2d-matrix-ii) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0456-132-pattern) |
@@ -165,4 +166,8 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0486-predict-the-winner) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
