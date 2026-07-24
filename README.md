@@ -15,6 +15,7 @@ Collection of all the leetcode questions solved
 | [0204-count-primes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0486-predict-the-winner) |
@@ -58,6 +59,7 @@ Collection of all the leetcode questions solved
 | [0169-majority-element](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0205-isomorphic-strings) |
+| [0349-intersection-of-two-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -84,6 +86,7 @@ Collection of all the leetcode questions solved
 | ------- |
 | [0011-container-with-most-water](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -94,6 +97,7 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -103,6 +107,7 @@ Collection of all the leetcode questions solved
 | [0004-median-of-two-sorted-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0852-peak-index-in-a-mountain-array) |
