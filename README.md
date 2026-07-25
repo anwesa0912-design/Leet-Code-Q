@@ -63,6 +63,7 @@ Collection of all the leetcode questions solved
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0071-simplify-path) |
 | [0205-isomorphic-strings](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0205-isomorphic-strings) |
 ## Enumeration
 |  |
@@ -129,6 +130,7 @@ Collection of all the leetcode questions solved
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0071-simplify-path) |
 | [0456-132-pattern](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0456-132-pattern) |
 ## Monotonic Stack
 |  |
