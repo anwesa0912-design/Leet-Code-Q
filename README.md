@@ -31,6 +31,7 @@ Collection of all the leetcode questions solved
 | [0009-palindrome-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0050-powx-n) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0204-count-primes) |
@@ -56,6 +57,7 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0001-two-sum) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0205-isomorphic-strings) |
@@ -64,6 +66,7 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0071-simplify-path) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0205-isomorphic-strings) |
 ## Enumeration
 |  |
