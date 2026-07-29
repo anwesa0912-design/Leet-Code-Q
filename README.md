@@ -47,6 +47,7 @@ Collection of all the leetcode questions solved
 | [0486-predict-the-winner](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2485-find-the-pivot-integer](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2485-find-the-pivot-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -189,6 +190,7 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0238-product-of-array-except-self) |
+| [2485-find-the-pivot-integer](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2485-find-the-pivot-integer) |
 ## Simulation
 |  |
 | ------- |
