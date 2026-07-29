@@ -24,6 +24,7 @@ Collection of all the leetcode questions solved
 | [0912-sort-an-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0941-valid-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Math
 |  |
