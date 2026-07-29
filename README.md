@@ -32,6 +32,7 @@ Collection of all the leetcode questions solved
 | [0009-palindrome-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
@@ -52,6 +53,7 @@ Collection of all the leetcode questions solved
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
@@ -66,6 +68,7 @@ Collection of all the leetcode questions solved
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0071-simplify-path) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0205-isomorphic-strings) |
@@ -183,4 +186,8 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
