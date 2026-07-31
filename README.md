@@ -29,6 +29,7 @@ Collection of all the leetcode questions solved
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Collection of all the leetcode questions solved
 | [0486-predict-the-winner](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2485-find-the-pivot-integer](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2485-find-the-pivot-integer) |
 ## Matrix
 |  |
@@ -63,6 +65,7 @@ Collection of all the leetcode questions solved
 | [0090-subsets-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +86,7 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |
@@ -204,4 +208,9 @@ Collection of all the leetcode questions solved
 | ------- |
 | [0078-subsets](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0090-subsets-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
