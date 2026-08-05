@@ -50,6 +50,7 @@ Collection of all the leetcode questions solved
 | [0319-bulb-switcher](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0390-elimination-game) |
+| [0412-fizz-buzz](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -86,6 +87,7 @@ Collection of all the leetcode questions solved
 | [0071-simplify-path](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0071-simplify-path) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0205-isomorphic-strings) |
+| [0412-fizz-buzz](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0412-fizz-buzz) |
 ## Enumeration
 |  |
 | ------- |
@@ -209,6 +211,7 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0412-fizz-buzz) |
 ## Backtracking
 |  |
 | ------- |
