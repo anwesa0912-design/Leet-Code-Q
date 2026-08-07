@@ -14,6 +14,7 @@ Collection of all the leetcode questions solved
 | [0035-search-insert-position](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0169-majority-element) |
@@ -113,6 +114,7 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
@@ -124,6 +126,7 @@ Collection of all the leetcode questions solved
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
