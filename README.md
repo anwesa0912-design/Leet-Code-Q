@@ -47,6 +47,7 @@ Collection of all the leetcode questions solved
 | [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0326-power-of-three) |
@@ -101,6 +102,7 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -217,6 +219,7 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0412-fizz-buzz) |
 ## Backtracking
 |  |
