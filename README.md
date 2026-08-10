@@ -51,6 +51,7 @@ Collection of all the leetcode questions solved
 | [0263-ugly-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0390-elimination-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0412-fizz-buzz) |
@@ -72,6 +73,7 @@ Collection of all the leetcode questions solved
 | [0078-subsets](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -111,6 +113,7 @@ Collection of all the leetcode questions solved
 | [0050-powx-n](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0509-fibonacci-number) |
