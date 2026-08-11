@@ -6,13 +6,17 @@ class Solution {
                 s+=nums[i+1];
             }
             else break;
+            
         }
-        Arrays.sort(nums);
-        for(int i=0;i<nums.length;i++){
-            if(s==nums[i]){
-                s++;
-            }
+        while(contains(nums,s)){
+            s++;
         }
         return s;
+    }
+    public boolean contains(int[]num,int t){
+        for(int n:num){
+            if(n==t) return true;
+        }
+        return false;
     }
 }
