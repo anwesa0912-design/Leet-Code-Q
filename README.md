@@ -33,6 +33,7 @@ Collection of all the leetcode questions solved
 | [1470-shuffle-the-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +88,7 @@ Collection of all the leetcode questions solved
 | [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0349-intersection-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -140,6 +142,7 @@ Collection of all the leetcode questions solved
 | [0912-sort-an-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
