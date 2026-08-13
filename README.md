@@ -13,6 +13,7 @@ Collection of all the leetcode questions solved
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0090-subsets-ii) |
@@ -65,6 +66,7 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
@@ -226,6 +228,7 @@ Collection of all the leetcode questions solved
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0412-fizz-buzz) |
