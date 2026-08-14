@@ -14,6 +14,7 @@ Collection of all the leetcode questions solved
 | [0035-search-insert-position](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0090-subsets-ii) |
@@ -67,6 +68,7 @@ Collection of all the leetcode questions solved
 | ------- |
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
 |  |
@@ -85,6 +87,7 @@ Collection of all the leetcode questions solved
 | ------- |
 | [0001-two-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
