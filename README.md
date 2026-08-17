@@ -37,6 +37,7 @@ Collection of all the leetcode questions solved
 | [1470-shuffle-the-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1920-build-array-from-permutation](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1920-build-array-from-permutation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
@@ -241,6 +242,7 @@ Collection of all the leetcode questions solved
 | [0067-add-binary](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1920-build-array-from-permutation) |
 ## Backtracking
 |  |
 | ------- |
