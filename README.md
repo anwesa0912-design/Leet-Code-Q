@@ -39,6 +39,7 @@ Collection of all the leetcode questions solved
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1920-build-array-from-permutation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +100,7 @@ Collection of all the leetcode questions solved
 | [0205-isomorphic-strings](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0349-intersection-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
