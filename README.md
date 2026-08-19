@@ -33,6 +33,7 @@ Collection of all the leetcode questions solved
 | [0852-peak-index-in-a-mountain-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0941-valid-mountain-array) |
+| [1386-cinema-seat-allocation](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -87,6 +88,7 @@ Collection of all the leetcode questions solved
 | [0342-power-of-four](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1386-cinema-seat-allocation](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1386-cinema-seat-allocation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Hash Table
 |  |
@@ -99,6 +101,7 @@ Collection of all the leetcode questions solved
 | [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0349-intersection-of-two-arrays) |
+| [1386-cinema-seat-allocation](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
@@ -144,6 +147,7 @@ Collection of all the leetcode questions solved
 | ------- |
 | [0011-container-with-most-water](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
+| [1386-cinema-seat-allocation](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1386-cinema-seat-allocation) |
 ## Sorting
 |  |
 | ------- |
