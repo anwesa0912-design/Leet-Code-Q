@@ -41,6 +41,7 @@ Collection of all the leetcode questions solved
 | [1920-build-array-from-permutation](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1920-build-array-from-permutation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [4020-elevator-requests-i](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/4020-elevator-requests-i) |
 ## Math
 |  |
 | ------- |
@@ -249,6 +250,7 @@ Collection of all the leetcode questions solved
 | [0258-add-digits](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1920-build-array-from-permutation) |
+| [4020-elevator-requests-i](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/4020-elevator-requests-i) |
 ## Backtracking
 |  |
 | ------- |
