@@ -69,6 +69,7 @@ Collection of all the leetcode questions solved
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2485-find-the-pivot-integer](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2485-find-the-pivot-integer) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Matrix
 |  |
 | ------- |
@@ -115,11 +116,13 @@ Collection of all the leetcode questions solved
 | [0205-isomorphic-strings](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0205-isomorphic-strings) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0412-fizz-buzz) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Enumeration
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Number Theory
 |  |
 | ------- |
