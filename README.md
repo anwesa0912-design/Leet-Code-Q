@@ -42,6 +42,7 @@ Collection of all the leetcode questions solved
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [4020-elevator-requests-i](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/4020-elevator-requests-i) |
+| [4024-nearest-available-drone](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/4024-nearest-available-drone) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +124,7 @@ Collection of all the leetcode questions solved
 | [0204-count-primes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+| [4024-nearest-available-drone](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/4024-nearest-available-drone) |
 ## Number Theory
 |  |
 | ------- |
