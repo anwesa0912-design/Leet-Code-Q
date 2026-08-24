@@ -23,6 +23,7 @@ Collection of all the leetcode questions solved
 | [0118-pascals-triangle](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0349-intersection-of-two-arrays) |
@@ -103,6 +104,7 @@ Collection of all the leetcode questions solved
 | [0169-majority-element](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0349-intersection-of-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -159,6 +161,7 @@ Collection of all the leetcode questions solved
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
 | [0912-sort-an-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0912-sort-an-array) |
