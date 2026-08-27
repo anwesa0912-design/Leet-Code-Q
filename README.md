@@ -9,6 +9,7 @@ Collection of all the leetcode questions solved
 | [0001-two-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0035-search-insert-position) |
@@ -146,6 +147,7 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0349-intersection-of-two-arrays) |
