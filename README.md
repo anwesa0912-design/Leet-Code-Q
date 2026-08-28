@@ -22,6 +22,7 @@ Collection of all the leetcode questions solved
 | [0088-merge-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0217-contains-duplicate) |
@@ -236,6 +237,7 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0120-triangle) |
 | [0486-predict-the-winner](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0509-fibonacci-number) |
 ## Memoization
