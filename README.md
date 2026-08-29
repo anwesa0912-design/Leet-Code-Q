@@ -123,6 +123,7 @@ Collection of all the leetcode questions solved
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0412-fizz-buzz) |
 | [3921-score-validator](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3921-score-validator) |
+| [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Enumeration
 |  |
