@@ -44,6 +44,7 @@ Collection of all the leetcode questions solved
 | [1920-build-array-from-permutation](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1920-build-array-from-permutation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3921-score-validator](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3921-score-validator) |
 | [4020-elevator-requests-i](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/4020-elevator-requests-i) |
 | [4024-nearest-available-drone](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/4024-nearest-available-drone) |
 ## Math
@@ -121,6 +122,7 @@ Collection of all the leetcode questions solved
 | [0205-isomorphic-strings](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0205-isomorphic-strings) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0412-fizz-buzz) |
+| [3921-score-validator](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3921-score-validator) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Enumeration
 |  |
@@ -262,6 +264,7 @@ Collection of all the leetcode questions solved
 | [0258-add-digits](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1920-build-array-from-permutation) |
+| [3921-score-validator](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3921-score-validator) |
 | [4020-elevator-requests-i](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/4020-elevator-requests-i) |
 ## Backtracking
 |  |
