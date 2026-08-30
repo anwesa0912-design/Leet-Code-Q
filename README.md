@@ -42,6 +42,7 @@ Collection of all the leetcode questions solved
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1920-build-array-from-permutation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3921-score-validator](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3921-score-validator) |
@@ -162,6 +163,7 @@ Collection of all the leetcode questions solved
 | [0011-container-with-most-water](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1386-cinema-seat-allocation) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sorting
 |  |
 | ------- |
