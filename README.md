@@ -13,6 +13,7 @@ Collection of all the leetcode questions solved
 | [0033-search-in-rotated-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0059-spiral-matrix-ii) |
@@ -81,6 +82,7 @@ Collection of all the leetcode questions solved
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0059-spiral-matrix-ii) |
@@ -105,6 +107,7 @@ Collection of all the leetcode questions solved
 | ------- |
 | [0001-two-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0073-set-matrix-zeroes) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0169-majority-element) |
@@ -277,6 +280,7 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0090-subsets-ii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -284,4 +288,12 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
