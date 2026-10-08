@@ -29,6 +29,7 @@ Collection of all the leetcode questions solved
 | [0217-contains-duplicate](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0456-132-pattern) |
@@ -161,6 +162,7 @@ Collection of all the leetcode questions solved
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
