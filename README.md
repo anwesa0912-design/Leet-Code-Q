@@ -97,6 +97,7 @@ Collection of all the leetcode questions solved
 | [0067-add-binary](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -203,6 +204,7 @@ Collection of all the leetcode questions solved
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0912-sort-an-array) |
 ## Counting
