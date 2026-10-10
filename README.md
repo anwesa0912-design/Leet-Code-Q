@@ -35,6 +35,7 @@ Collection of all the leetcode questions solved
 | [0456-132-pattern](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0486-predict-the-winner) |
 | [0704-binary-search](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0704-binary-search) |
+| [0819-most-common-word](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0941-valid-mountain-array) |
@@ -118,6 +119,7 @@ Collection of all the leetcode questions solved
 | [0205-isomorphic-strings](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0349-intersection-of-two-arrays) |
+| [0819-most-common-word](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0819-most-common-word) |
 | [1386-cinema-seat-allocation](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -132,6 +134,7 @@ Collection of all the leetcode questions solved
 | [0344-reverse-string](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0344-reverse-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0412-fizz-buzz) |
+| [0819-most-common-word](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0819-most-common-word) |
 | [3921-score-validator](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3921-score-validator) |
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
@@ -213,6 +216,7 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0169-majority-element) |
+| [0819-most-common-word](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0819-most-common-word) |
 ## Brainteaser
 |  |
 | ------- |
