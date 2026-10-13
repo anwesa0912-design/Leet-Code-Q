@@ -101,6 +101,7 @@ Collection of all the leetcode questions solved
 | [0078-subsets](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0190-reverse-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0405-convert-a-number-to-hexadecimal) |
