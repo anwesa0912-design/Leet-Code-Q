@@ -34,6 +34,7 @@ Collection of all the leetcode questions solved
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0486-predict-the-winner) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0704-binary-search) |
 | [0819-most-common-word](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0819-most-common-word) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -206,6 +207,7 @@ Collection of all the leetcode questions solved
 | [0349-intersection-of-two-arrays](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0456-132-pattern) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
