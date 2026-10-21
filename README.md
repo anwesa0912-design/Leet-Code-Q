@@ -81,6 +81,7 @@ Collection of all the leetcode questions solved
 | [0509-fibonacci-number](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2235-add-two-integers](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2485-find-the-pivot-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3875-construct-uniform-parity-array-i) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
