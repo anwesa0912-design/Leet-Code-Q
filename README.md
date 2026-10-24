@@ -82,6 +82,7 @@ Collection of all the leetcode questions solved
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2235-add-two-integers](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2485-find-the-pivot-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3875-construct-uniform-parity-array-i) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
@@ -139,6 +140,7 @@ Collection of all the leetcode questions solved
 | [0405-convert-a-number-to-hexadecimal](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0412-fizz-buzz) |
 | [0819-most-common-word](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0819-most-common-word) |
+| [2409-count-days-spent-together](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2409-count-days-spent-together) |
 | [3921-score-validator](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3921-score-validator) |
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/3922-minimum-flips-to-make-binary-string-coherent) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
