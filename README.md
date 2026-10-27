@@ -16,6 +16,7 @@ Collection of all the leetcode questions solved
 | [0037-sudoku-solver](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0074-search-a-2d-matrix) |
@@ -182,6 +183,7 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -269,6 +271,7 @@ Collection of all the leetcode questions solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0120-triangle) |
 | [0486-predict-the-winner](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0486-predict-the-winner) |
