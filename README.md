@@ -14,6 +14,7 @@ Collection of all the leetcode questions solved
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0055-jump-game) |
@@ -183,6 +184,7 @@ Collection of all the leetcode questions solved
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0455-assign-cookies) |
 | [1386-cinema-seat-allocation](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/1386-cinema-seat-allocation) |
@@ -271,6 +273,7 @@ Collection of all the leetcode questions solved
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/anwesa0912-design/Leet-Code-Q/tree/master/0120-triangle) |
