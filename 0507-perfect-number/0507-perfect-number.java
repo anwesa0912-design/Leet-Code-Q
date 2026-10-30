@@ -1,12 +1,17 @@
 class Solution {
     public boolean checkPerfectNumber(int num) {
-     int s=0;
-    for(int i=1;i<num;i++){
-        if(num%i==0){
+    if(num<2) return false;
+     int s=1;int n=num;
+    for(int i=2;i<=Math.sqrt(n);i++){
+        if(n%i==0){
+            int nums=num/i;
             s+=i;
+            if(nums!=i){
+            s+=nums;
+            }
         }
     } 
-    if(s==num) return true;
+    if(s==n) return true;
     else return false;
     }
 }
